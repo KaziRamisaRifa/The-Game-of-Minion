@@ -18,3 +18,5 @@ This a java-swing minigame .The player guides a minion across a side-scrolling l
 - Main/Beginning Window: Main.java
 - Files: User.txt, User1.txt
 - GUI: Swing
+
+Developer: ![Kazi Ramisa Rifa](mailto:kazi.rifa@northsouth.edu)
