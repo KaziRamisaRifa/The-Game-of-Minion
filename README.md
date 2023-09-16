@@ -11,7 +11,7 @@ This a an mini adventure game. The player guides a minion across a side-scrollin
 * Compiler(with version): Eclipse Java 2019-09
 * JDK/JRE: JRE [JavaSE- 12]
 
-## Use Case
+## Visual
 - Main/Beginning Window: Main.java
 - Files: User.txt, User1.txt
 - GUI: Swing
