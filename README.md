@@ -1,8 +1,5 @@
-# TheGameofMinion
-This a java-swing minigame .The player guides a minion across a side-scrolling landscape, avoiding obstacles to achieve a higher score. 
-
-## Project Title:
-- Category(e.g: Management System/Game): Game (The Game Of Minion) 
+# The Game of Minion
+This a java-swing minigame .The player guides a minion across a side-scrolling landscape, avoiding obstacles to achieve a higher score. This is an adventure game. There are total 15 classes of codes. For this project, I have used GUI, filesystem and OOP.
 
 
 ## Game Window
